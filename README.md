@@ -1,2 +1,2 @@
-#Git tutorial
-a fast-paced git course by fireship.io
+#Git & GitHub tutorial
+a fast-paced git and github course by fireship.io
